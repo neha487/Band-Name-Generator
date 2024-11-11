@@ -2,12 +2,16 @@
 
 A simple Python project that generates random band names based on user input or pre-defined word lists. This project is designed to inspire creativity, whether you're brainstorming names for a real band, a fictional project, or just having fun with random combinations.
 
-Features
+Features:
+
 Generates random band names based on word lists (e.g., adjectives, nouns, etc.)
+
 Customizable for more word categories or specific themes
+
 Simple and easy-to-use interface in the command line
 
 Installation
+
 1. Clone the repository:
 ```bash 
 git clone https://github.com/yourusername/band-name-generator.git
@@ -28,8 +32,11 @@ python band_name_generator.py
 ```
 
 Usage
+
 Upon running the script, you can choose from a variety of options:
+
 Generate a Random Band Name: The script will create a unique name using combinations of adjectives and nouns.
+
 Add Custom Word Lists: You can modify the script to include your own word lists for more personalized results.
 
 Example:
@@ -40,6 +47,7 @@ Band Name: The Electric Ravens
 ```
 
 Customization
+
 You can modify the word lists in the script to fit your preferences:
 adjectives – A list of descriptive words (e.g., "electric," "wild," "silent").
 nouns – A list of nouns to use in the band name (e.g., "ravens," "stars," "lions").
