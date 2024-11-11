@@ -49,14 +49,19 @@ Band Name: The Electric Ravens
 Customization
 
 You can modify the word lists in the script to fit your preferences:
+
 adjectives – A list of descriptive words (e.g., "electric," "wild," "silent").
+
 nouns – A list of nouns to use in the band name (e.g., "ravens," "stars," "lions").
+
 Simply add or modify words in these lists to generate different types of band names.
 
 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 Contributing
+
 Feel free to open issues or submit pull requests for improvements! If you have an idea for new features or improvements, your contributions are welcome.
 
 
